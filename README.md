@@ -60,9 +60,9 @@ Design pattern is a widely accepted solution to a recurring design problem. A de
 
 The following tools were used in this project:
 
-- [Diagrams.net](https://app.diagrams.net/)
-- [VSCode IDE](https://code.visualstudio.com/docs/editor/vscode-web)
-- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+:pencil: [Diagrams.net](https://app.diagrams.net/);\
+:computer: [VSCode IDE](https://code.visualstudio.com/docs/editor/vscode-web);\
+:wrench: [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio).
 
 ## :white_check_mark: Requirements
 
@@ -70,14 +70,14 @@ To get started :checkered_flag: Modeling can be done online in the browser or us
 
 ## :checkered_flag: Starting
 
-```
-# Modeling
-Access https://app.diagrams.net/
-```
+To model start by accessing <https://app.diagrams.net/>
 
 ## :books: References
 
-:book: [MODI Pawan. Java Design Patterns & Examples](https://www.linkedin.com/in/pawanmodi/details/featured/570456/single-media-viewer/?type=DOCUMENT&profileId=ACoAAALtMD8BZcYFUJyUODukzHb_9J423QR0QRc)
+:book: [MODI Pawan. Java Design Patterns & Examples](https://www.linkedin.com/in/pawanmodi/details/featured/570456/single-media-viewer/?type=DOCUMENT&profileId=ACoAAALtMD8BZcYFUJyUODukzHb_9J423QR0QRc);\
+:+1: [Object Oriented Designe](https://www.oodesign.com/);\
+:v: [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns);\
+:star: [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns).
 
 ## :memo: License
 
